@@ -1,0 +1,15 @@
+c:\users\игорь\source\repos\T9SplellingShell\T9Spelling\obj\Debug\T9Spelling.Properties.Resources.resources
+c:\users\игорь\source\repos\T9SplellingShell\T9Spelling\obj\Debug\T9Spelling.csproj.GenerateResource.cache
+c:\users\игорь\source\repos\T9SplellingShell\T9Spelling\obj\Debug\T9Spelling.csproj.CoreCompileInputs.cache
+c:\users\игорь\source\repos\T9SplellingShell\T9Spelling\bin\Debug\T9Spelling.dll
+c:\users\игорь\source\repos\T9SplellingShell\T9Spelling\bin\Debug\T9Spelling.pdb
+c:\users\игорь\source\repos\T9SplellingShell\T9Spelling\obj\Debug\T9Spelling.dll
+c:\users\игорь\source\repos\T9SplellingShell\T9Spelling\obj\Debug\T9Spelling.pdb
+C:\Users\Игорь\source\repos\T9SpellingShell\T9Spelling\bin\Debug\T9Spelling.dll
+C:\Users\Игорь\source\repos\T9SpellingShell\T9Spelling\bin\Debug\T9Spelling.pdb
+C:\Users\Игорь\source\repos\T9SpellingShell\T9Spelling\obj\Debug\T9Spelling.Properties.Resources.resources
+C:\Users\Игорь\source\repos\T9SpellingShell\T9Spelling\obj\Debug\T9Spelling.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\T9SpellingShell\T9Spelling\obj\Debug\T9Spelling.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\T9SpellingShell\T9Spelling\obj\Debug\T9Spelling.dll
+C:\Users\Игорь\source\repos\T9SpellingShell\T9Spelling\obj\Debug\T9Spelling.pdb
+C:\Users\Игорь\source\repos\T9SpellingShell\T9Spelling\obj\Debug\T9Spelling.csprojResolveAssemblyReference.cache

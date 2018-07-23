@@ -1,0 +1,10 @@
+C:\Users\Игорь\source\repos\T9SpellingShell\T9SpellingShell\bin\Debug\T9SpellingShell.exe.config
+C:\Users\Игорь\source\repos\T9SpellingShell\T9SpellingShell\bin\Debug\T9SpellingShell.exe
+C:\Users\Игорь\source\repos\T9SpellingShell\T9SpellingShell\bin\Debug\T9SpellingShell.pdb
+C:\Users\Игорь\source\repos\T9SpellingShell\T9SpellingShell\obj\Debug\T9SpellingShell.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\T9SpellingShell\T9SpellingShell\obj\Debug\T9SpellingShell.exe
+C:\Users\Игорь\source\repos\T9SpellingShell\T9SpellingShell\obj\Debug\T9SpellingShell.pdb
+C:\Users\Игорь\source\repos\T9SpellingShell\T9SpellingShell\obj\Debug\T9SpellingShell.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\source\repos\T9SpellingShell\T9SpellingShell\bin\Debug\T9Spelling.dll
+C:\Users\Игорь\source\repos\T9SpellingShell\T9SpellingShell\bin\Debug\T9Spelling.pdb
+C:\Users\Игорь\source\repos\T9SpellingShell\T9SpellingShell\obj\Debug\T9SpellingShell.csproj.CopyComplete
